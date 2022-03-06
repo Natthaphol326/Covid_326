@@ -55,7 +55,6 @@
             v-model="atk"
             required
           >
-            <option selected>ผลตรวจ</option>
             <option value="Positive">Positive</option>
             <option value="Negative">Negative</option>
           </select>
